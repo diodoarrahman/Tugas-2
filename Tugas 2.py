@@ -84,7 +84,7 @@ universitas.tambah_jurusan(jurusan2)
 #menggunakan metode tambah jurusan ke objek universitas dengan parameter jurusan2
 mahasiswa1 = Mahasiswa("Diodo Arrahman","G1A022027",jurusan1)
 #pembuatan objek mahasiswa1 dengan parameter Nama, NIM, dan jurusan
-mahasiswa2 = Mahasiswa("Delvi Nur Ropiq","G1A022001",jurusan1)
+mahasiswa2 = Mahasiswa("Simore Moremore","G1A022101",jurusan1)
 #pembuatan objek mahasiswa2 dengan parameter Nama, NIM, dan jurusan
 mahasiswa3 = Mahasiswa("Udin Sipudin","B1A022001",jurusan2)
 #pembuatan objek mahasiswa3 dengan parameter Nama, NIM, dan jurusan
