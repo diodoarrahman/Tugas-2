@@ -73,7 +73,7 @@ class Universitas:
 
 universitas = Universitas("XYZ University")
 #pembuatan objek universitas dari kelas Universitas dengan parameter berupa nama Universitas yaitu Universitas XYZ
-jurusan1 = Jurusan("Teknik Informasika")
+jurusan1 = Jurusan("Teknik Informatika")
 #pembuatan objek jurusan1 dari kelas Jurusan dengan parameter Teknik Informatika
 jurusan2 = Jurusan("Ilmu Hukum")
 #pembuatan objek jurusan2 dari kelas Jurusan dengan parameter Ilmu Hukum
