@@ -77,11 +77,17 @@ jurusan1 = Jurusan("Teknik Informatika")
 #pembuatan objek jurusan1 dari kelas Jurusan dengan parameter Teknik Informatika
 jurusan2 = Jurusan("Ilmu Hukum")
 #pembuatan objek jurusan2 dari kelas Jurusan dengan parameter Ilmu Hukum
+jurusan3 = Jurusan("FMIPA")
+#pembuatan objek jurusan3 dari kelas Jurusan dengan parameter FMIPA
+
 universitas.tambah_jurusan(jurusan1)
 #menggunakan metode tambah jurusan ke objek universitas dengan parameter jurusan1
 #Dengan menggunakan metode ini, jurusan 1 akan ditambahkan ke daftar jurusan di kelas universitas
 universitas.tambah_jurusan(jurusan2)
 #menggunakan metode tambah jurusan ke objek universitas dengan parameter jurusan2
+universitas.tambah_jurusan(jurusan3)
+#menggunakan metode tambah jurusan ke objek universitas dengan parameter jurusan 3
+
 mahasiswa1 = Mahasiswa("Diodo Arrahman","G1A022027",jurusan1)
 #pembuatan objek mahasiswa1 dengan parameter Nama, NIM, dan jurusan
 mahasiswa2 = Mahasiswa("Simore Moremore","G1A022101",jurusan1)
